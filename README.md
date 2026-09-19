@@ -16,7 +16,7 @@ Welcome to my personal builder page. This desktop-first web portfolio was built 
 * **Spider Web:** ( Work in Progress)
 
   ## PREVIEW
-  <img width="1995" height="1071" alt="IMG_20260919_183517" src="https://github.com/user-attachments/assets/1e95b757-4daf-4d27-9c9e-8ff77a96e28a" />
+<img width="1995" height="1071" alt="IMG_20260919_203758" src="https://github.com/user-attachments/assets/5f7dfbce-62e5-45f7-a1aa-5797701ca602" />
 
     
 ## About the Builder
