@@ -14,6 +14,10 @@ Welcome to my personal builder page. This desktop-first web portfolio was built 
 * **Monopoly QR Bank:** Digital banking app replacing physical scanners with QR codes.
 * **Desk Guardian:** Ultrasonic smart occupancy monitor via Arduino Mega and ESP32 web server.
 * **Spider Web:** ( Work in Progress)
+
+  ## PREVIEW
+  <img width="1995" height="1071" alt="IMG_20260919_183517" src="https://github.com/user-attachments/assets/1e95b757-4daf-4d27-9c9e-8ff77a96e28a" />
+
     
 ## About the Builder
 I'm Prokshith, a 15-year-old developer and hardware tinkerer from India. When I'm not studying, I'm usually building autonomous robots with microcontrollers, coding retro-inspired web interfaces, or designing custom lo-fi tracks. 
